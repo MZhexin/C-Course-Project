@@ -1,4 +1,4 @@
-# Handwriting-Numerals-Recognition-Based-on-MLP
+# C语言课设 Handwriting Numerals Recognition Based on MLP
 1. 本项目为C语言编写的多层感知机模型，用于识别MNIST手写数字数据集；
 2. 本项目的数学推导、实验结果请见PDF文件；
 3. cpp源程序文件夹中仅含有cpp源程序文件，并不含有支撑代码正常运行的必要文件；
